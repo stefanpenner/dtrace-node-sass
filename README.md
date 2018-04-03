@@ -8,7 +8,7 @@ Current this only instruments:
 
 TODO:
 
-* trace native sass functions such a: https://github.com/sass-eyeglass/eyeglass/blob/ab308d492657f76144942b0bc34b71ccd1be3641/sass/assets.scss#L20
+* trace native sass functions such as: https://github.com/sass-eyeglass/eyeglass/blob/ab308d492657f76144942b0bc34b71ccd1be3641/sass/assets.scss#L20
 * trace either insteresting thing
 
 ## Steps
