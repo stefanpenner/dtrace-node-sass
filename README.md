@@ -30,3 +30,8 @@ TODO:
 ```sh
 sudo dtrace -s ./trace.d  -p <pid-of-process-using-node-sass>
 ```
+
+
+### Thanks
+
+@burkelibbey for supplementing my c skills.
